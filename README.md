@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0018-4sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0844-backspace-string-compare](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0018-4sum) |
 ## String
 |  |
 | ------- |
