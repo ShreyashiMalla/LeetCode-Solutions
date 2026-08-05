@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Queue
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0844-backspace-string-compare](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -81,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
