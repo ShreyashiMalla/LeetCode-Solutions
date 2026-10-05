@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1929-concatenation-of-array](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Quicksort
 |  |
 | ------- |
