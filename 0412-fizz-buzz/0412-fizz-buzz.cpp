@@ -4,6 +4,7 @@ public:
         vector<string> ans;
         for(int i=1;i<=n;i++){
             if (i%3==0 && i%5==0){
+                //push_back() means add an element to the end of a vector.
                 ans.push_back("FizzBuzz");
             }
             else if (i%3==0){
