@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -156,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
