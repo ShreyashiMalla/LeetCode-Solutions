@@ -1,7 +1,3 @@
-
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
     bool isAnagram(string s, string t) {
@@ -11,18 +7,30 @@ public:
             return false;
         }
 
-        // Step 2: Sort the characters of string s
-        sort(s.begin(), s.end());
+        // Step 2: Create an array to store character frequencies
+        // Initially, all 26 positions contain 0
+        int freq[26] = {0};
 
-        // Step 3: Sort the characters of string t
-        sort(t.begin(), t.end());
+        // Step 3: Count characters in s and subtract characters in t
+        for (int i = 0; i < s.length(); i++) {
 
-        // Step 4: Compare both sorted strings
-        if (s == t) {
-            return true;  // Both strings contain the same characters
+            // Increase the count for the character in s
+            freq[s[i] - 'a']++;
+
+            // Decrease the count for the character in t
+            freq[t[i] - 'a']--;
         }
-        else {
-            return false; // The characters are different
+
+        // Step 4: Check whether all character counts are zero
+        for (int i = 0; i < 26; i++) {
+
+            // A non-zero count means the characters do not match
+            if (freq[i] != 0) {
+                return false;
+            }
         }
+
+        // Step 5: All character counts match
+        return true;
     }
 };
