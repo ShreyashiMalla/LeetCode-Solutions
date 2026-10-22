@@ -11,9 +11,7 @@ public:
         }
         for(auto i:need){
             char c = i.first;
-            int fneed= i.second;
-            int fhave=have[c];
-            if(fhave<fneed){
+            if(have[c]<i.second){
                 return false;
             }
         }
