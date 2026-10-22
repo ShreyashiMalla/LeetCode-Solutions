@@ -1,14 +1,12 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        int r=ransomNote.size();
-        int m=magazine.size();
         unordered_map<char,int> have;
         unordered_map<char,int> need;
-        for(int i=0;i<r;i++){
+        for(int i=0;i<ransomNote.size();i++){
             need[ransomNote[i]]++;
         }
-        for(int i=0;i<m;i++){
+        for(int i=0;i<magazine.size();i++){
             have[magazine[i]]++;
         }
         for(auto i:need){
