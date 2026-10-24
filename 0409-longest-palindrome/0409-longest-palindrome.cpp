@@ -10,24 +10,14 @@ public:
         int res=0;
         for(auto i:f){
             int val=i.second;
-            if(val%2==0){
-                res+=val;
-            }
-            else{
+            res+=(val/2)*2;
+            if(val%2==1){
                 odd=true;
             }
         }
-        if(odd==false){
-            return res;
+        if(odd){
+            res++;
         }
-        for(auto i:f){
-            int val=i.second;
-            if(val%2==1){
-                res+=val-1;
-            }
-        }
-        return res+1;
-
-                
+        return res;
     }
 };
