@@ -1,36 +1,26 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-
-        // Step 1: If lengths are different, they cannot be anagrams
-        if (s.length() != t.length()) {
+        int n= s.size();
+        int m=t.size();
+        if(n!=m){
             return false;
         }
-
-        // Step 2: Create an array to store character frequencies
-        // Initially, all 26 positions contain 0
-        int freq[26] = {0};
-
-        // Step 3: Count characters in s and subtract characters in t
-        for (int i = 0; i < s.length(); i++) {
-
-            // Increase the count for the character in s
-            freq[s[i] - 'a']++;
-
-            // Decrease the count for the character in t
-            freq[t[i] - 'a']--;
+        unordered_map<char,int>have;
+        unordered_map<char,int>need;
+        
+        for(int i=0;i<n;i++){
+            have[s[i]]++;
         }
-
-        // Step 4: Check whether all character counts are zero
-        for (int i = 0; i < 26; i++) {
-
-            // A non-zero count means the characters do not match
-            if (freq[i] != 0) {
+        for(int i=0;i<m;i++){
+            need[t[i]]++;
+        }
+        for(auto i:have){
+            char c=i.first;
+            if(need[c]!=i.second){
                 return false;
             }
         }
-
-        // Step 5: All character counts match
         return true;
     }
 };
