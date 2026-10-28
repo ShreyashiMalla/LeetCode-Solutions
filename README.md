@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Two Pointers
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/ShreyashiMalla/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
