@@ -8,7 +8,7 @@ public:
             if(nums[right]!=0){
                 // Store the current number temporarily
                 int temp=nums[right];
-                // Put the right pointer number at the left position
+                // Put the left no. at right position
                 nums[right]=nums[left];
                 // Put the temp number at the left position
                 nums[left]=temp;
