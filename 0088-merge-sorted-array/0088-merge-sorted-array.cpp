@@ -21,6 +21,7 @@ public:
                 nums1[k]=nums2[j];
                 // Move j to the previous element in nums2
                 j--;
+                //fun
             }
             // Move k one position to the left, because the current position is filled
             k--;
