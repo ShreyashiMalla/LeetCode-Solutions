@@ -3,7 +3,7 @@ public:
     void moveZeroes(vector<int>& nums) {
         int n=nums.size();
         int left=0;// Position where the next non-zero number should go
-        for(int right=0;right<nums.size();right++){
+        for(int right=0;right<n;right++){
             // Check if the current number is not zero
             if(nums[right]!=0){
                 // Store the current number temporarily
